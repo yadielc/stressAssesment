@@ -12,4 +12,4 @@ Here's a diagram of the a sample decision tree performed by the system.
 ![decisiontreearticulo2](https://user-images.githubusercontent.com/33431535/41324713-27d9bd28-6e84-11e8-8390-d49f4744c6c1.jpg)
 
 
-[ExpDesc.pdf](https://github.com/ysites/stressAssesment/files/2096283/ExpDesc.pdf)
+[embed](https://github.com/ysites/stressAssesment/files/2096283/ExpDesc.pdf)[/embed]
