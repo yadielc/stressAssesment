@@ -11,4 +11,4 @@ Here's a diagram of the a sample decision tree performed by the system.
 
 ![decisiontreearticulo2](https://user-images.githubusercontent.com/33431535/41324713-27d9bd28-6e84-11e8-8390-d49f4744c6c1.jpg)
 
-<img width="600" alt="screen shot 2018-06-12 at 9 16 35 pm" src="https://user-images.githubusercontent.com/33431535/41324997-de245420-6e85-11e8-888d-abfadfb2bbb7.png">
+<img width="571" alt="screen shot 2018-06-12 at 9 21 09 pm" src="https://user-images.githubusercontent.com/33431535/41325102-75b3168c-6e86-11e8-8fde-2f92dfef5fb7.png">
