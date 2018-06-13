@@ -11,5 +11,4 @@ Here's a diagram of the a sample decision tree performed by the system.
 
 ![decisiontreearticulo2](https://user-images.githubusercontent.com/33431535/41324713-27d9bd28-6e84-11e8-8390-d49f4744c6c1.jpg)
 
-
-[embed]https://github.com/ysites/stressAssesment/files/2096283/ExpDesc.pdf[/embed]
+<img width="600" alt="screen shot 2018-06-12 at 9 16 35 pm" src="https://user-images.githubusercontent.com/33431535/41324997-de245420-6e85-11e8-888d-abfadfb2bbb7.png">
