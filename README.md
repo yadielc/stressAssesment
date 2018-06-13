@@ -1,4 +1,6 @@
-<strong> Stress Assessment</strong>
+<strong> Stress Assessment</strong><br>
+
+
 This is the back-end to an expert system done in Java.
 The purpose of the system is to determine the level of vulnerability of
 a person and urgency of therapy to a potential patient. The system recommends
