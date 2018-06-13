@@ -13,4 +13,6 @@ Here's a diagram of the a sample decision tree performed by the system.
 
 Here's a diagram of how the system works:<br>
 
-<img align="center" width="571" alt="screen shot 2018-06-12 at 9 21 09 pm" src="https://user-images.githubusercontent.com/33431535/41325102-75b3168c-6e86-11e8-8fde-2f92dfef5fb7.png">
+<p align="center">
+<img width="571" alt="screen shot 2018-06-12 at 9 21 09 pm" src="https://user-images.githubusercontent.com/33431535/41325102-75b3168c-6e86-11e8-8fde-2f92dfef5fb7.png">
+</p> 
